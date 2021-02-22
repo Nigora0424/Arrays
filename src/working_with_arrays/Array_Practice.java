@@ -9,7 +9,7 @@ public class Array_Practice {
 //        double arry[] = new double[5];
 	 //  long long_numbers[] = new long[8];
 	
-	
+	System.out.println("ARRAY");
 	
 	
 	
